@@ -1,7 +1,3 @@
-I have updated the **Code Quality** section of the README to reflect the reality of decompiling a C++ engine like Rayne. It differentiates between the "High Quality" recovery of assets and the "Low Quality" (but still useful) recovery of the game's logic.
-
----
-
 # RayneDecompiler
 
 **RayneDecompiler** is a specialized reverse-engineering toolkit designed to analyze and deconstruct games built on the [Rayne Engine](https://github.com/uberpixel/Rayne). Since Rayne is a high-performance C++ engine, this tool focuses on bridging the gap between raw machine code and the engine's original class structures.
